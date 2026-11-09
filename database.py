@@ -85,3 +85,4 @@ def init_db():
 # Dosya doğrudan çalıştırılırsa veritabanını otomatik oluştursun
 if __name__ == "__main__":
     init_db()
+#yorum

@@ -136,3 +136,4 @@ def ask_question(q: QuestionRequest):
         "confidence_score": round(match_result["confidence_score"], 3),
         "message": "Soru yapay zekâ tarafından başarıyla en uygun öğretmene yönlendirildi!",
     }
+# yorum
